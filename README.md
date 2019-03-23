@@ -2,10 +2,10 @@
 
 ### 程序：Test_helloword_and_activity
 
-####一、程序功能
+#### 一、程序功能
 （1）在界面中输出“hello word”。  
 （2）验证activity的生命周期，输出到程序后台。  
-####二、代码实现
+#### 二、代码实现
 ```
 package com.example.administrator.tset_helloword_and_activity;
 
